@@ -1,4 +1,4 @@
-# mapping
+# mappingB
 This is a BDS (Bedrock Dedicated Server) mod which allows generating a mapping of legacy blockIDs and their metadata values to modern Minecraft Bedrock blockstates.
 It also allows generating a palette for newer versions of the game which don't send it over the wire.
 
